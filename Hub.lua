@@ -14,11 +14,11 @@ Section:NewButton("Trap Hub", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrapstarKSSKSKSKKS/Main/main/Project%20Slayer"))()
 end)
 
-Section:NewButton("Carley", "", function()
+Section:NewButton("Carley Hub ", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/lmmake/fun/main/projectslayer.lua"))()
 end)
 
-Section:NewButton("Carley", "", function()
+Section:NewButton("Bruhnhe Hub", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/connorobrien11/wbat.file/main/C4U6KFq6T6BatBvpFyTBzwiDCMhTPh%25%26type%3Dza"))()
 end)
 
