@@ -14,11 +14,11 @@ Section:NewButton("Trap Hub", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrapstarKSSKSKSKKS/Main/main/Project%20Slayer"))()
 end)
 
-Section:NewButton("Carley Hub ", "", function()
+Section:NewButton("Carley", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/lmmake/fun/main/projectslayer.lua"))()
 end)
 
-Section:NewButton("Bruhnhe Hub", "", function()
+Section:NewButton("Carley", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/connorobrien11/wbat.file/main/C4U6KFq6T6BatBvpFyTBzwiDCMhTPh%25%26type%3Dza"))()
 end)
 
@@ -69,4 +69,28 @@ local Section = Tab:NewSection("DOORS")
 
 Section:NewButton("Doors", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/main.lua"))()
+end)
+
+local Tab = Window:NewTab("A 0ne Piece Game")
+
+local Section = Tab:NewSection("A 0ne Piece Game")
+
+Section:NewButton("6FOOT", "", function()
+    loadstring(game:HttpGet('https://www.6footscripts.com/Scripts/6FootHub/Hub.lua'))()
+end)
+
+local Tab = Window:NewTab("YBA")
+
+local Section = Tab:NewSection("YBA")
+
+Section:NewButton("Boy Hub", "", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/MainGui.lua"))()
+end)
+
+local Tab = Window:NewTab("Ro Ghoul")
+
+local Section = Tab:NewSection("Ro Ghoul")
+
+Section:NewButton("Ro Ghoul", "", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-05/HUB/main/Script"))()
 end)
