@@ -94,3 +94,11 @@ local Section = Tab:NewSection("Ro Ghoul")
 Section:NewButton("Ro Ghoul", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-05/HUB/main/Script"))()
 end)
+
+local Tab = Window:NewTab("Anime Fighting Simulator")
+
+local Section = Tab:NewSection("Anime Fighting Simulator")
+
+Section:NewButton("Anime Fighting Simulator", "", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/InFlames121212122/Anime-Fighting-Simulator/main/Anime%20Fighting%20Simulator.lua"))()
+end)
